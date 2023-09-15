@@ -1,2 +1,4 @@
 1 heet 1000
 2 sneha 2000
+3 sneha 3000
+4 sneha 3000
